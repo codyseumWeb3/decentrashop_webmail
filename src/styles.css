@@ -1,0 +1,30 @@
+html, body {
+  font-family: "Mulish", ui-sans-serif, system-ui, sans-serif;
+  text-align: center;
+}
+
+.ButtonSendM {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 24px;
+  gap: 8px;
+  width: 153px;
+  height: 35px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 15px;
+  text-align: center;
+  color: #1d1d24;
+  background: #fcd15a;
+  border-radius: 8px;
+}
+
+.pagination {
+  margin: 15px 0 0 0;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+}
